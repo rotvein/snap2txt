@@ -64,6 +64,9 @@ By default, Snap2Txt installs a basic `.il` and `.wl` in the package directory. 
 
 > **Tip**: To quickly locate where these files were installed, use `snap2txt --show-locations`.
 
+### Local Overrides 
+You can create your own .il or .wl in the root of any project. Snap2Txt will automatically use them instead of the global ones.
+
 ### Example `.il` File
 
 ```text
